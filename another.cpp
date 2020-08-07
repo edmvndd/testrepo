@@ -20,5 +20,7 @@ int main()
 {
 	A foo;
 
+	cout << "Hello, world!" << endl;
+
 	return 0;
 }
